@@ -2,10 +2,10 @@
 
 React calculator with hooks and Context API
 
-##Install dependencies
+## Install dependencies
 `npm install`
 
-##Run project
+## Run project
 `npm start`
 
 #Interface
