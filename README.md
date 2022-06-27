@@ -3,11 +3,12 @@
 ### React calculator with hooks and Context API
 
 #### How to install
-** Install dependencies **
+
+##### Install dependencies
 `npm install`
 
-** Run project **
+##### Run project 
 `npm start`
 
 ### Interface
-![Calc](https://imgur.com/2jojOXw)
+![Calc](https://i.imgur.com/2jojOXw.png)
