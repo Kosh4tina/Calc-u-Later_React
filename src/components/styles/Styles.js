@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const CalculatorStyles = styled.div`
   background-color: #4abdac;
   max-width: 100%;
-  height: 100vh;
+  height: 100%;
   display: grid;
   justify-items: center;
   grid-template-areas:
