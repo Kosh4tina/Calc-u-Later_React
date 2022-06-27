@@ -4,11 +4,9 @@
 
 ### How to install
 
-#### Install dependencies
-`npm install`
+#### Install dependencies : `npm install`
 
-#### Run project 
-`npm start`
+#### Run project : `npm start`
 
 ## Interface
 ![Calc](https://i.imgur.com/2jojOXw.png)
